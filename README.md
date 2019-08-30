@@ -1,6 +1,6 @@
 # webpage
 
-##My Web pages on GitHub
+## My Web pages
 * [First Web Page](https://akdalton.github.io/webpage/firstWebPage.html)
 
 ## Author

@@ -1,6 +1,7 @@
 /* Style all font awesome icons */
 .fa {
-  padding: 20px;
+  padding: 20px; /* Some padding */
+  border: none; /* Remove borders */
   font-size: 30px;
   width: 50px;
   text-align: center;
@@ -18,29 +19,29 @@
 /* Facebook */
 .fa-facebook {
   background: #627AAC;
-  color: white;
+  color: #FDFEFE;
 }
 
 /* Twitter */
 .fa-twitter {
   background: #55ACEE;
-  color: white;
+  color: #FDFEFE;
 }
 
 /* Instagram */
 .fa-instagram {
   background: #FF8432;
-  color: white;
+  color: #FDFEFE;
 }
 
 /* LinkedIn */
 .fa-linkedin {
   background: #3295C3;
-  color: white;
+  color: #FDFEFE;
 }
 
 /* GitHub */
 .fa-github {
   background: #17202A;
-  color: white;
+  color: #FDFEFE;
 }

@@ -4,6 +4,6 @@
 * [First Web Page](https://mrashishkumar.github.io/webpage/firstWebPage.html)
 
 ## Author
-* **Ashish Kumar** - *Initial work* - [Ashish](https://github.com/mrashishkumar).
-    Thanks for visit my webpage, see you soon
+* **Ashish Kumar** - *Initial work* - [Ashish](https://github.com/mrashishkumar)
+    Thanks for visit my webpage, see you soon.
 
